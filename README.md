@@ -13,6 +13,6 @@ The app has several options to chose from:
 
 User can find a deployed app by clicking => [Password Challenge](https://rroip.github.io/Password_Challenge/)
 
+User can access repo => [Git repo](https://github.com/rroip/Password_Challenge)
 ![alt Screen Shot](./Assets/PW_Screen_Shot.png)
 
-[Git repo](https://github.com/rroip/Password_Challenge)
