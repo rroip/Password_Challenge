@@ -11,4 +11,8 @@ The app has several options to chose from:
 
 # Usage
 
-User can find a deployed app by clinging on the link below:
+User can find a deployed app by clicking => [Password Challenge](https://rroip.github.io/Password_Challenge/)
+
+![alt Screen Shot](./Assets/PW_Screen_Shot.png)
+
+[Git repo](https://github.com/rroip/Password_Challenge)
